@@ -2,6 +2,9 @@
 ## 웹서비스
 + https://pnumin.github.io/project2_dice/
 
+## 실행방법
++ 주사위 버튼을 누른 후 번호를 선택하면 맞추는 게임
+
 ## 자바스크립트 
 + script태그사용
   + 내부 
